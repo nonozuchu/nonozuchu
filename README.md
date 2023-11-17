@@ -22,6 +22,7 @@ I like to **mix art and design with web development, creating  unique experience
 <h2 align="center"> Languages, frameworks, libraries and tools </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,sqlite,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,vscode,figma,github,git" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=python,c,cs,unity,sqlite,flask" /><br>
 </div>
