@@ -9,7 +9,7 @@
 <div align="center">
  
  
- I’m currently learning **React & React Native**
+ I’m currently learning **CS50x**
 <br/>
  I like to **mix art and design with web development, creating  unique experiences**
  
