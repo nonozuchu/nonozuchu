@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&random=true&separator=%3C&lines=%3E+Hello!%3C...%3E+I'm+Noah+Scherner;" alt="Typing SVG" />
+</h1>
 
-<!--
-**nonozuchu/nonozuchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate front-ent student from Brazil</h3>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+ 
+ 
+ I’m currently learning **React & React Native**
+<br/>
+ I like to **mix art and design with web development, creating  unique experiences**
+ 
+ </div>
+ 
+
+ <hr/>
+ 
+<h2 align="center"> Languages, frameworks, libraries and tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,sqlite,flask" /><br>
+</div>
